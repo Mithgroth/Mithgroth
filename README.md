@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Mithgroth/Mithgroth/blob/main/devcard.svg" width="200" align="right" alt="Emek Taydaş's Dev Card"/></a>
-
 <!--
 **Mithgroth/Mithgroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
