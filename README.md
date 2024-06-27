@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Machine Learning Journey (so far)
-## Data Visualization
+## Machine Learning Journey (so far)
+### Data Visualization
 * [Pokemon study](https://github.com/Mithgroth/pokemon-study)
 
-## Classification
+### Classification
 * [Music genre recognition on GTZAN dataset](https://github.com/Mithgroth/music-genre-recognition-gtzan)
 * [Pnuemonia detector](https://github.com/Mithgroth/pneumonia-detector)
