@@ -46,10 +46,10 @@ Here are some ideas to get you started:
 
 ## 🔥 Experience  
 
-💼 **Founding Engineer & Advisor** for Startups
-💼 **Consultant Developer** @ Overwolf, Authority Partners 
-💼 **Lead Software Developer** @ TES Bilişim  
-💼 **Software Developer** @ Devartes  
+- 💼 **Founding Engineer & Advisor** for Startups
+- 💼 **Consultant Developer** @ Overwolf, Authority Partners
+- 💼 **Lead Software Developer** @ TES Bilişim
+- 💼 **Software Developer** @ Devartes
 
 > *"If Emek believes we're heading in the wrong direction, he'll be the first to raise a flag—with concrete reasons."* — [A former manager]  
 
