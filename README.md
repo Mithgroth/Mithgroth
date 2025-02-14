@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 🔹 **Azure & Kubernetes** (Cloud, DevOps, Infrastructure as Code)  
 - 🔹 **Event-Driven & CQRS** (MassTransit, Redis, Postgres, ELK)  
 - 🔹 **Machine Learning & LLMs** (Open Source AI, Model Deployment)  
-- 🔹 **Flutter & Mobile** (Azure MAUI, Mobile Development)  
+- 🔹 **Flutter & Mobile** (MAUI, Mobile Development)  
 
 ---
 
