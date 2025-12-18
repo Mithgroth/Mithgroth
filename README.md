@@ -1,68 +1,44 @@
-### Hi there 👋
+Hi, I am Emek 👋  
+Senior Backend Engineer with 15+ years of experience building backend systems that scale, evolve, and survive production.  
+Favourite question is "**why?**".  
 
-<!--
-**Mithgroth/Mithgroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I care about domain correctness, architecture tradeoffs, and shipping software that survives real users.  
+I enjoy event driven systems, backend architecture, and pragmatic use of ML when it actually adds value.
 
-Here are some ideas to get you started:
+### Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• ♦️ **Texas Hold’em Critter (WIP)**  
+A Texas Hold’em poker simulation built to explore event sourcing and domain modeling using Marten and Wolverine (Critter Stack). Focuses on invariants first, aggregate boundaries, and long running workflows instead of UI or shortcuts.  
+https://github.com/Mithgroth/texas-holdem-critter
 
-# 👋 Hey there, I'm Emek!  
+• 🔥 **Aspire Forge**  
+A Bash based project bootstrapper I use to start new services with my preferred structure and tooling. Built to remove repetitive setup work and enforce consistency across projects.  
+https://github.com/Mithgroth/aspire-forge
 
-### 🚀 Software Developer | AI & LLM Enthusiast | Open Source Advocate  
+• 🔐 **BG Challenge**  
+A system design challenge exploring how to build a reliable job queue on top of PostgreSQL, using advisory locking for concurrency.
+https://github.com/Mithgroth/bg-challenge
 
-💡 **Solving domain and people problems—sometimes with code.**  
-🏹 Archers in RPGs.  
-🎮 Gamer, historian, philosopher at heart.  
-🏆 Great goalkeeper (on the field & in software).  
-😄 Talkative, cheerful, and always up for a challenge!  
+• 🏪 **FakeStore MCP**  
+An e commerce demo integrating the Model Context Protocol (MCP) with Next.js and the FakeStore API using strict TypeScript. Demonstrates protocol driven design and real client server boundaries.  
+https://github.com/Mithgroth/fakestore-mcp
 
----
+• 💱 **Currency Converter API**  
+A production style C# API built with vertical slice architecture, resilient HTTP calls using Polly, and proper test coverage. A simple domain used to showcase clean vertical slice backend design.  
+https://github.com/Mithgroth/CurrencyConverter
 
-## 💻 Tech Stack & Interests  
+### What I Actually Work With
 
-- 🔹 **.NET & C#** (Web APIs, Microservices, Clean Architecture)  
-- 🔹 **Azure & Kubernetes** (Cloud, DevOps, Infrastructure as Code)  
-- 🔹 **Event-Driven & CQRS** (MassTransit, Redis, Postgres, ELK)  
-- 🔹 **Machine Learning & LLMs** (Open Source AI, Model Deployment)  
-- 🔹 **Flutter & Mobile** (MAUI, Mobile Development)  
+C#, .NET, APIs, PostgreSQL, SQL Server, CRUD, event driven architecture, DDD, CQRS, Marten, Wolverine, Docker, Azure  
+Python for ML experiments when it makes sense
 
----
+### About Me
 
-## 📌 Currently Working On
+I have led teams, mentored developers, shipped systems at scale, and worked as a founding engineer in early stage startups.  
+I prefer small teams, high ownership, and environments where thinking matters more than process.
 
-- 🔹 **[a2k](https://github.com/Mithgroth/a2k)** - Open-source CLI tool for deploying .NET Aspire to Kubernetes  
-- 🔹 **[SignHere](https://github.com/Mithgroth/SignHere)** - File signature validator library
+### Contact
 
----
+[LinkedIn](https://www.linkedin.com/in/emek-taydas/)   
 
-## 🔥 Experience  
-
-- 💼 **Founding Engineer & Advisor** for Startups
-- 💼 **Consultant Developer** @ Overwolf, Authority Partners
-- 💼 **Lead Software Developer** @ TES Bilişim
-- 💼 **Software Developer** @ Devartes
-
-> *"If Emek believes we're heading in the wrong direction, he'll be the first to raise a flag—with concrete reasons."* — [A former manager]  
-
----
-
-## 🌍 Connect with Me  
-
-📬 **Email:** [emektaydas@outlook.com](mailto:emektaydas@outlook.com)  
-📍 **Location:** Istanbul, Turkey  
-🔗 **LinkedIn:** [linkedin.com/in/emek-taydas](https://www.linkedin.com/in/emek-taydas/)  
-📜 **Stack Overflow:** [stackoverflow.com/users/506128/mithgroth](https://stackoverflow.com/users/506128/mithgroth)  
-💻 **GitHub:** [github.com/Mithgroth](https://github.com/Mithgroth)  
-
----
-
-⚡ *"Code is poetry, but real magic happens when you solve the right problem."*  
+[Email](mailto:emektaydas@outlook.com)   
